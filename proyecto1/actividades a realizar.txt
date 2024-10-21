@@ -1,0 +1,6 @@
+actividades a realizar 
+pantalla principal 
+pantalla de ALTA
+pantalla de actualizado
+pantalla busqueda de producto 
+pantalla de las ventas realizadas 
